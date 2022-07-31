@@ -1,2 +1,2 @@
 # Simple_Pendulum
-Contains codes for forward and inverse dynamics of simple pendulum
+Contains codes for forward dynamic analysis of simple pendulum
